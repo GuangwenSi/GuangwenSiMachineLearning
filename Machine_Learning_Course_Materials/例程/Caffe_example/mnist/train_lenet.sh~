@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+set -e
+
+BUILD=/home/hhj/caffe-master/build/tools
+$BUILD/caffe train --solver=examples/mnist/lenet_solver.prototxt $@

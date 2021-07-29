@@ -1,0 +1,21 @@
+#!/usr/bin/env sh
+# This script converts the mnist data into lmdb/leveldb format,
+# depending on the value assigned to $BACKEND.
+set -e
+
+DATA=/home/hhj/caffe-master/examples/mnist
+BUILD=/home/hhj/caffe-master/build/tools
+
+rm -rf $DATA/mnist_train_lmdb
+rm -rf $DATA/mnist_test_lmdb
+
+$BUILD/convert_imageset --shuffle \
+--resize_height=28 --resize_width=28 \
+$DATA/trainingdata/    \
+$DATA/training.txt  $DATA/mnist_train_lmdb
+
+$BUILD/convert_imageset --shuffle \
+--resize_height=28 --resize_width=28 \
+$DATA/testingdata/    \
+$DATA/testing.txt  $DATA/mnist_test_lmdb
+
