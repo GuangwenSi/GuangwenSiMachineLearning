@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f4bd3e-dc26-46dd-85be-cdd80f925c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刷题题目/第1题（三个数之和为0的组合）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刷题题目/第2题（快速排序）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刷题题目/第3题（不连续组合）.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/李航统计学习-算法实现/第一章-统计方法概论/least_sqaure_method.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第01章 统计学习方法概论/least_sqaure_method.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第01章 统计学习方法概论/least_sqaure_method.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第16章 主成分分析/PCA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第16章 主成分分析/PCA.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,33 +19,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/刷题题目/第1题（三个数之和为0的组合）.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第01章 统计学习方法概论/least_sqaure_method.ipynb">
+        <entry file="file://$PROJECT_DIR$/刷题题目/第2题（快速排序）.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="64">
-                <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/刷题题目/第3题（不连续组合）.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,14 +49,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/李航统计学习-算法实现/第一章-统计方法概论/least_sqaure_method.ipynb" />
+        <option value="$PROJECT_DIR$/刷题题目/三个数之和为0的组合.ipynb" />
+        <option value="$PROJECT_DIR$/刷题题目/第2题（快速排序）.ipynb" />
+        <option value="$PROJECT_DIR$/刷题题目/第3题（不连续组合）.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="289" />
+    <option name="y" value="242" />
+    <option name="width" value="1456" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,28 +117,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627521556036</updated>
-      <workItem from="1627521561750" duration="4740000" />
+      <workItem from="1627521561750" duration="7026000" />
     </task>
+    <task id="LOCAL-00001" summary="readme-计划">
+      <created>1627545056271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627545056272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4740000" />
+    <option name="totallyTimeSpent" value="7026000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="289" y="242" width="1456" height="776" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33595988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.27130976" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928367" weight="0.49376947" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007163" side_tool="true" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928367" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -154,6 +165,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/2021-ZJU-Machine-Learning" />
     </ignored-roots>
+    <MESSAGE value="readme-计划" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme-计划" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Course_Materials/编程作业/Assignment 2--Neural Networks/NN examples/SAE/sae_train.m">
@@ -161,6 +174,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_Course_Materials/编程作业/Assignment 2--Neural Networks/NN examples/SAE/sae_create.m">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -173,15 +196,17 @@
     <entry file="file://$PROJECT_DIR$/Learn-Statistical-Learning-Method-master/第01章 统计学习方法概论/least_sqaure_method.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="64">
-            <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/李航统计学习-算法实现/第一章-统计方法概论/least_sqaure_method.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/刷题题目/第1题（三个数之和为0的组合）.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/刷题题目/第2题（快速排序）.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/刷题题目/第3题（不连续组合）.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
